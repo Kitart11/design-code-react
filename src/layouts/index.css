@@ -12,10 +12,11 @@ a {
   color: #5334F5;
   text-decoration: none;
   font-weight: 600;
+  
 }
 
 .Hero {
-  background: url('../images/wallpaper.jpg');
+  background: url('../images/wallpaper3.jpg');
   height: 920px;
   background-size: cover;
   background-position: center;
@@ -39,6 +40,7 @@ a {
   color: rgba(255, 255, 255, 0.8);
   font-size: 30px;
   line-height: 1.5;
+
 }
 
 .Hero a {
