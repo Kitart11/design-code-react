@@ -4,6 +4,7 @@ import Card from '../components/Card';
 import Section from '../components/Section';
 import Wave from '../components/Wave';
 
+
 const IndexPage = () => (
   <div>
     <div className="Hero">
@@ -22,7 +23,7 @@ const IndexPage = () => (
             <img src={require('../images/logo-react.png')} width="50"/>
             <img src={require('../images/logo-swift.png')} width="50"/>
         </div>
-<Wave/>
+           <Wave />
       </div>
     </div>
     <div className="Cards">
